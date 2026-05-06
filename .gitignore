@@ -1,0 +1,8 @@
+
+venv/
+*.db
+code_log.txt
+Largest_banks_data.csv
+__pycache__/
+pyvenv.cfg
+Capturas/
